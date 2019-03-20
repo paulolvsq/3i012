@@ -17,6 +17,8 @@
         <COMPID name="Client" mc="Standard.Class" uid="67cba824-69c3-4f6d-af31-0091042aef40"/>
         <COMPID name="Agence" mc="Standard.Class" uid="7f094c3b-9ac7-4da1-a6de-4c690c5d6db5"/>
         <COMPID name="Compte" mc="Standard.Class" uid="5777a429-0542-4912-b08e-fc8a5cface63"/>
+        <COMPID name="Accueil" mc="Standard.Class" uid="f1b94663-5dea-42bb-a3df-579c8601f571"/>
+        <COMPID name="Observer" mc="Standard.Class" uid="c0d11eb5-ecc3-4194-b8b2-a1a5ea044462"/>
       </COMP>
       <LINK relation="Extension">
         <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>

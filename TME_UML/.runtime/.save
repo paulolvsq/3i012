@@ -1,13 +1,7 @@
-#Thu Mar 07 12:18:28 CET 2019
+#Wed Mar 20 23:16:22 CET 2019
 org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu0/3670460/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
 org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu0/3670460/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
-org.modelio.diagram.editor.OpenedDiagrams7='Interaction Sequence diagram' {cec36a6b-711d-412b-a32f-6bfbe007555d} Standard.SequenceDiagram
-org.modelio.diagram.editor.OpenedDiagrams6='repertoire Class diagram' {bca1a13c-7fd4-45df-93ca-5acdedd10a56} Standard.ClassDiagram
 org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu0/3670460/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
-org.modelio.diagram.editor.OpenedDiagrams5='ui' {4a60c856-4fbd-4fcf-9746-dbd5679ed52e} Standard.ClassDiagram
-org.modelio.diagram.editor.OpenedDiagrams4='OBSERVER' {c9d33df4-3c1b-4d8d-a59c-bdd103977949} Standard.ClassDiagram
-org.modelio.diagram.editor.OpenedDiagrams3='Interaction Sequence diagram' {1da5e777-5833-47cc-8a15-be5dc8e31385} Standard.SequenceDiagram
 org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu0/3670460/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
-org.modelio.diagram.editor.OpenedDiagrams2='Interaction Sequence diagram' {0f1bf92d-20eb-47d2-81c7-6e373cc04357} Standard.SequenceDiagram
-org.modelio.diagram.editor.OpenedDiagrams1='Repertoire s\u00E9par\u00E9 en deux packages + Observer Class diagram' {6ef083d3-ea21-4876-9647-dfaaa9ddafa3} Standard.ClassDiagram
-org.modelio.diagram.editor.OpenedDiagrams0='UIRepertoire Class diagram' {1acc6acf-47e2-4557-b340-d3605149f034} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams1='Levesque_3670460 Class diagram (1)' {cc2d41da-d402-4c63-82c7-b432a4223b3b} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams0='Levesque_3670460 Class diagram' {bd3e6c2d-6f0e-4176-9266-dd08f6c09c38} Standard.ClassDiagram
