@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LEVESQUE_3670460" version="4">
+  <OBJECT>
+    <ID name="LEVESQUE_3670460" mc="Standard.Package" uid="2bc005fe-1674-4ef5-b85f-d4627ff7a32e"/>
+    <PID name="TME_UML" mc="Standard.Project" uid="273bb99a-a8a7-45a9-a88d-a14b24602078"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[LEVESQUE_3670460]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Banque" mc="Standard.Package" uid="8004454b-f6d8-4301-b910-4a36ea3f3bbe"/>
+        <COMPID name="DAB" mc="Standard.Package" uid="f6dfc11c-f019-4d27-a9d6-910257c09a77"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Banque" version="4">
+  <OBJECT>
+    <ID name="Banque" mc="Standard.Package" uid="8004454b-f6d8-4301-b910-4a36ea3f3bbe"/>
+    <PID name="LEVESQUE_3670460" mc="Standard.Package" uid="2bc005fe-1674-4ef5-b85f-d4627ff7a32e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Banque]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Client" mc="Standard.Class" uid="67cba824-69c3-4f6d-af31-0091042aef40"/>
+        <COMPID name="Agence" mc="Standard.Class" uid="7f094c3b-9ac7-4da1-a6de-4c690c5d6db5"/>
+        <COMPID name="Compte" mc="Standard.Class" uid="5777a429-0542-4912-b08e-fc8a5cface63"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="Banque Class diagram" mc="Standard.ClassDiagram" uid="695bcc00-3615-4c7c-b860-e5df64ccb07b"/>
+        <COMPID name="Banque Class diagram (1)" mc="Standard.ClassDiagram" uid="b28196d2-031d-4963-90ba-d5526f663694"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

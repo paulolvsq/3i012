@@ -111,9 +111,7 @@
         <REFOBJ>
           <ID name="questionnaire" mc="Standard.AssociationEnd" uid="931cce3a-baf7-4626-ae5e-08afae506190"/>
         </REFOBJ>
-        <REFOBJ>
-          <ID name="controle" mc="Standard.AssociationEnd" uid="a2585328-bb12-4579-9fc2-c8b92c94a6f6"/>
-        </REFOBJ>
+        <FOREIGNID name="controle" mc="Standard.AssociationEnd" uid="a2585328-bb12-4579-9fc2-c8b92c94a6f6"/>
         <REFOBJ>
           <ID name="questionnaire" mc="Standard.AssociationEnd" uid="61a68d5c-b5b0-44c0-8aa9-7769168679cf"/>
         </REFOBJ>

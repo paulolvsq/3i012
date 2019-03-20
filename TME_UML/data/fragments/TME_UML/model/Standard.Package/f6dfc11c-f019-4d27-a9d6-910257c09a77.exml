@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DAB" version="4">
+  <OBJECT>
+    <ID name="DAB" mc="Standard.Package" uid="f6dfc11c-f019-4d27-a9d6-910257c09a77"/>
+    <PID name="LEVESQUE_3670460" mc="Standard.Package" uid="2bc005fe-1674-4ef5-b85f-d4627ff7a32e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[DAB]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedImport">
+        <OBJECT>
+          <ID name="ElementImport" mc="Standard.ElementImport" uid="b04550df-a89c-4f55-8ffe-14ed274aa84e"/>
+          <ATTRIBUTES>
+            <ATT name="Visibility">Private</ATT>
+            <ATT name="Name"><![CDATA[ElementImport]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="ImportedElement">
+              <ID name="Banque" mc="Standard.Package" uid="8004454b-f6d8-4301-b910-4a36ea3f3bbe"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Clavier" mc="Standard.Class" uid="44733e55-03ba-4259-8665-888b25d0a454"/>
+        <COMPID name="LecteurCarte" mc="Standard.Class" uid="472ce1ac-2449-4f62-bea6-372ac2041b16"/>
+        <COMPID name="CarteBancaire" mc="Standard.Class" uid="59549a30-19af-487e-b24d-7c10dbba98ce"/>
+        <COMPID name="Distributeur" mc="Standard.Class" uid="fa62daa6-5be5-4bf7-97fa-1199c667e9e2"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

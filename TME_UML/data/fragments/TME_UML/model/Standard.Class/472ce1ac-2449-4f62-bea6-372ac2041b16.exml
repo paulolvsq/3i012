@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LecteurCarte" version="4">
+  <OBJECT>
+    <ID name="LecteurCarte" mc="Standard.Class" uid="472ce1ac-2449-4f62-bea6-372ac2041b16"/>
+    <PID name="DAB" mc="Standard.Package" uid="f6dfc11c-f019-4d27-a9d6-910257c09a77"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[LecteurCarte]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaClass" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0258-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="LecteurCarte Class diagram" mc="Standard.ClassDiagram" uid="50d27366-64d1-4497-9ae4-414e8e2c2aa9"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

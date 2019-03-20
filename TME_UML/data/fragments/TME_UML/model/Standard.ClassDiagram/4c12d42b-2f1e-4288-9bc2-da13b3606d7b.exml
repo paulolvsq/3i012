@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CarteBancaire Class diagram" version="4">
+  <OBJECT>
+    <ID name="CarteBancaire Class diagram" mc="Standard.ClassDiagram" uid="4c12d42b-2f1e-4288-9bc2-da13b3606d7b"/>
+    <PID name="CarteBancaire" mc="Standard.Class" uid="59549a30-19af-487e-b24d-7c10dbba98ce"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">3</ATT>
+      <ATT name="UiData"><![CDATA[eJztmltv4joQgP9KxDshCbQFle2qhRWnWnoRnF1pz0s1SQz11rGRbbbQX792LpxCW+oGCKjKE3gSj2/fTGYyaX+dRcT6g7jAjH6puLZTsb6etW/83yiQFg6VqGLJ+QR9qTA+tiMWIoKZHWIYc4hsFGLJuC0kSPxgI4IiRKVI2kF2Uy8axu1u0q5YEfxm/G4xqFM5a99yNkFczi0KkRqLwJxNZRckqGs/gUxROgk6JaRSO2vXsg4vug7lnKDK0hK8dUsQ+n5hB4wjO+lrML8OiABCFGaDfZvJARoZjnKtVKQ9LTSTXf9SzTH+q/9cJT2tuj1bWWgtWdK6xXNEQKJQzWVl3660yPqjJXqLgIbAQ7tDQIj0WKxG4Hphw/Or3shF1YbXbFZbfuBVQ3Drfv3YOQ5P/PVbr7TJ75Q90j74iKzMYCg5puPKWQe4RBdAA8AcWfEMrHSX2rW4w9oFMoIuaYdFEyawVMfzxigGqjr3mIQcaQ19LOQSMfUc0AcEnp4U7PGSNoJ8oKYBdKz5SE/MazVPvVb91HXrp03nwwbQ2LkBaPoTUyuEWeuoddRoQd2pui0YVRvNE1T1vUZYPQlcJ/R9aDUDtG1YDwfPo03xvOU4Aj6/Vl23TKpz6uSl9NiUUqVqNt8Y1UaJqgmqV4Cp5mRDZE9yIKu1igkE6B6pA+QK3utM8k8sKT6UaBbL6HHJqAmjCQ0GCsU9e7zDwQtFF0yNBHSxPSMg4p0Fx6oe0PyR8XAL2iQED3dCIo7YO9okn5pMjbxyDh9XBb6QHAKZY4ULVp+ZTyvfg0sIPMKxA+gsGgMk8BP4BPU4m06K9wSuU7qCA3QFGz6m3DzpLkg1uD+VaKxRVJSeZ4J9sWmc8W6HTXc12CvhfFXvMhd5UK2lP+vdrJsnf9UKQU8+o/gmE+yLYuO0taS40IwAyXsW7hrhPDkupiqAoioWUYFNIKeKjF50mcqGmWwPIBec2ZYgm4GcobFpzJAntzVCdV+Ot+As1/1kse0WEd21l82TkBmh+x+je/C0XsFJ2Wcjd1eeVtOwZYrNAPfy5HOYUsTj1w4x2aqxeU1HG8hYv7FMz7fqfhzuMqs7SLhjQjaMIbw8GdsbnO4pavAKTte8stZ4CCGEly9Re5VcJPYUNhScoJXoHmLY8PLSyjhY/FQtHECOuor5KC9L9HbK2DshRd2gAOPlylUjGKNFMTYuLGmz1VJdkB1qaYLHNiOk1fq8gRkXnLeWXxAYWfFQrZgQLE10foYCrencclZot+LK+pg+iDX+cuX2i3GXw6M6zT7MlYkuW936dwiZEwkTBcImWoXyH0sai3nkf6zXfj+mxKvQZubU7dn981/fBncX553vvcHNj+vutp+Rb2p5fmb/4/P8w8m1L2BKGHYGw783t4VFSn8BrHc2ug==]]></ATT>
+      <ATT name="Name"><![CDATA[CarteBancaire Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="CarteBancaire" mc="Standard.Class" uid="59549a30-19af-487e-b24d-7c10dbba98ce"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="75f4539e-c284-4db0-96c9-58f881052f7d"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Clavier Class diagram" version="4">
+  <OBJECT>
+    <ID name="Clavier Class diagram" mc="Standard.ClassDiagram" uid="9eb106d8-4183-4951-a701-e542230e7aae"/>
+    <PID name="Clavier" mc="Standard.Class" uid="44733e55-03ba-4259-8665-888b25d0a454"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">7</ATT>
+      <ATT name="UiData"><![CDATA[eJztmltv4joQgP9KxDshF6BUpV21sOJUSy+CPSud81INyZR668TINi30168dCFvSFtKQhqrKE3gSz/jyzWQmTvvbLKDGA3JBWHhcsU2rYnw7aV+NfqMnDeIrUcWQ8wkeVxgfmwHzkRJm+gTGHAITfSIZN4UESe5NpBhgKMWi7cU39YJh1O4u2hUjgN+M36yMWpWT9jVnE+RyboQQKFsU5mwquyBBXfsFdIrLQYRTSiu1k3Yt7vCi61DOKVbWpuBsmoLQ9wvTYxzNRd8U4+uA8MBHPzb2fSYHeJvSyqVSsexp4Ex2R+dqjNFf/edi0dNwzVliorXFlDZNniMFib4aS2LdLrTIeNASvUQQ+sB9s0NBiOW2GIc4sq2m36rW7ZZbrR827CocWHYVG3XHcS08AMDNS6+0yR8hewz7MEKaGMFQchKOKyfK5gNBbkS2jeX6tGvRrRunxiiehx0WTJggUm3MG/pTqOrcEepz1Br6RMg1VtwMuHsUnp4U5tGUdsJ7oIYB4ViTsdwrx3WOXMc9si3rqGW9G/36h6OvuV84WSG0GvX6getio1G13BFU607jsNpqNhvVVqs1chq+BfVGPT9MPw+YjV3BvOYkAD6/VF1zZtQ6srLy2UzLp1I1m+8MaZKMEtKExgsgoSZkR1gPMsCqtYoJeHiHauu4wvYylvwTSYpPHFrF0tks6dxM54KDFArFHXu8Id4LRWdMWYJwtTC3QMWWpCZSdY/zR8b9HLRJ8O5vhESObIs2yadphkZf2YH3q4KRkBw8mWGGK0qfOc5htoeVEOSWRK7fWTUGKMgTjCj2OJtOio8BtlUGgU8VBHZ8NNlZClqQyvhoKnGsIVR8nsaCfVGZuqbNh0o7mdqVWCY0rhORBdLa8mdzaLWzVKhaIejBx/xexYJ98Zu6MC35LSjzR3nH/I+GN0sVS0KVLoUq81BpjCeniolecL6UDWPZHhAuuHYtEd6GcAzFrhlCluo1FaT7CrYF17H2F8thc0T0o+NrlsIrFbr/s3APMdYpuPj6auTmH2M1Bznzmw5tJ0vdRsIQefRiIWJaNXY/o9GuMdZvI5c7W7Xfj3VZvX0yrCM2dswbnCyV2RuE7ilTcAouy5zy1HC/CYOTrSB7lVkUe0oSCi7ESmg/V5Lw8lLCDhG/VIt4kOGcJL2Vl8fs5pKuLQmEm+JAxclUkwYwxtWxanRQpB1WS/XR6lBLF2DkmQ9tQfI1By64Pi2/Atjiv0M1V0qJTOPEX+GoNe3YMp615hLE+iS8FxsiZeL2s3GXw6PazT7MlXOu+9vmtwRx+PAXCoRJtQoVOdY0FvOYf1+v/X7+SJLQxu7U7Zn90/++D27OTjs/eoOrfy+7eT8d39TyfM/+4vP8g8eNr1hKGD4Mhp9X14XlSH8AtyAHAA==]]></ATT>
+      <ATT name="Name"><![CDATA[Clavier Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Clavier" mc="Standard.Class" uid="44733e55-03ba-4259-8665-888b25d0a454"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="77322b2d-ef6d-4b5f-a5e9-40bd5097cf27"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
