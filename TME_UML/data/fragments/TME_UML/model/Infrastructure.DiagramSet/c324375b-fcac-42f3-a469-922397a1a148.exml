@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TME_UML" version="4">
+  <OBJECT>
+    <ID name="TME_UML" mc="Infrastructure.DiagramSet" uid="c324375b-fcac-42f3-a469-922397a1a148"/>
+    <PID name="TME_UML" mc="Standard.Project" uid="273bb99a-a8a7-45a9-a88d-a14b24602078"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[TME_UML]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

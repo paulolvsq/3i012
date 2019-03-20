@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TME3" version="4">
+  <OBJECT>
+    <ID name="TME3" mc="Standard.Package" uid="7ecb39fa-303b-4961-bade-dfb067a2b11e"/>
+    <PID name="TME_UML" mc="Standard.Project" uid="273bb99a-a8a7-45a9-a88d-a14b24602078"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[TME3]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="javax" mc="Standard.Package" uid="cd52720b-7770-4609-842d-21b0d1469f89"/>
+        <COMPID name="java" mc="Standard.Package" uid="969a1214-6517-4862-b170-806fdfa9b7d6"/>
+        <COMPID name="repertoire" mc="Standard.Package" uid="440bd05c-bd34-4fdc-a646-46b36e9e4bc9"/>
+        <COMPID name="repertoire_original" mc="Standard.Package" uid="3169b368-5eb5-4dfc-92d1-ac1c951dbdfc"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

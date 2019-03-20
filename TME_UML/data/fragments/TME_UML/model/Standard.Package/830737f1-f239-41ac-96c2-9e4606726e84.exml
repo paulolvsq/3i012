@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Reste" version="4">
+  <OBJECT>
+    <ID name="Reste" mc="Standard.Package" uid="830737f1-f239-41ac-96c2-9e4606726e84"/>
+    <PID name="repertoire" mc="Standard.Package" uid="7d71bcf4-a9aa-4519-a8f4-71cc89102d0a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Reste]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Personne" mc="Standard.Class" uid="c66ae246-bbfc-407d-a2dc-bd0cf7c198c5"/>
+        <COMPID name="Adresse" mc="Standard.Class" uid="8ed97e40-95dd-4c5d-a539-6f8ed77c4532"/>
+        <COMPID name="Repertoire" mc="Standard.Class" uid="dd3d9608-29c8-4888-a3b8-ab08d99dcab6"/>
+        <COMPID name="Subject" mc="Standard.Class" uid="f95ad2f4-d7f1-4e6f-974f-54cc11e316cc"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

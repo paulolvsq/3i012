@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MyAssistant Class diagram" version="4">
+  <OBJECT>
+    <ID name="MyAssistant Class diagram" mc="Standard.ClassDiagram" uid="15b547c4-798b-4695-a04e-dead8d6d016c"/>
+    <PID name="MyAssistant" mc="Standard.Class" uid="2f309307-2420-4dd2-8073-a7b7faf8f3f4"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">75</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[MyAssistant Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="MyAssistant" mc="Standard.Class" uid="2f309307-2420-4dd2-8073-a7b7faf8f3f4"/>
+        <REFOBJ>
+          <ID name="main" mc="Standard.Operation" uid="72631c33-a186-44ae-8eb9-2719494ac045"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Infrastructure.Note" uid="8e7dd44a-c9f9-43b2-acdb-3f12e2ad0256"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="0df9fac7-66e1-4f6e-8e19-a929597cd7eb"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

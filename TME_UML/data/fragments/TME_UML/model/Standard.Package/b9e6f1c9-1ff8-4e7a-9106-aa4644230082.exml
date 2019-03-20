@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TME6_1" version="4">
+  <OBJECT>
+    <ID name="TME6_1" mc="Standard.Package" uid="b9e6f1c9-1ff8-4e7a-9106-aa4644230082"/>
+    <PID name="TME_UML" mc="Standard.Project" uid="273bb99a-a8a7-45a9-a88d-a14b24602078"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[TME6_1]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="e00ca4ab-f3e6-4b04-b55c-1f002b33f699"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Livre" mc="Standard.Class" uid="fbfcce89-9636-4faa-ad00-ebf09880d0f1"/>
+        <COMPID name="Librairie" mc="Standard.Class" uid="6f3d8f6f-59cb-44d2-8bbb-dd5b1942b3f0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

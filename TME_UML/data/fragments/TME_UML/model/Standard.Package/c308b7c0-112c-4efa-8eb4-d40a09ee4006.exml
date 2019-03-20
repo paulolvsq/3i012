@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="IHM" version="4">
+  <OBJECT>
+    <ID name="IHM" mc="Standard.Package" uid="c308b7c0-112c-4efa-8eb4-d40a09ee4006"/>
+    <PID name="Data" mc="Standard.Package" uid="710f4930-92a6-48d3-8502-cc3001a0d2cd"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[IHM]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ActionListener" mc="Standard.Interface" uid="0bfd5ba5-7f3c-401c-8f8e-92fae9220a04"/>
+        <COMPID name="UIRepertoire" mc="Standard.Class" uid="29054912-99c3-44e4-9388-add90fcb8b6f"/>
+        <COMPID name="JList" mc="Standard.Class" uid="b2cda04c-07cb-4e60-a7f1-872f7d0e6638"/>
+        <COMPID name="JPanel" mc="Standard.Class" uid="2ff6fcc2-e66d-47d6-b0b0-1f986f27e4c1"/>
+        <COMPID name="UIPersonne" mc="Standard.Class" uid="58c55f38-0e7c-4a55-8c5f-ba2a4df7f5d6"/>
+        <COMPID name="JSplitPane" mc="Standard.Class" uid="d31eb24a-e87f-4ee3-a64a-98d74a649ba1"/>
+        <COMPID name="JFrame" mc="Standard.Class" uid="1639ff5d-a06a-4a8e-a5c8-39b065e90ab5"/>
+        <COMPID name="JMenuBar" mc="Standard.Class" uid="91ef058d-34a1-4672-90f9-0913d070bb0c"/>
+        <COMPID name="JMenuItem" mc="Standard.Class" uid="e38157c7-6797-4326-8bf8-0d01dbe8227e"/>
+        <COMPID name="JMenu" mc="Standard.Class" uid="e4cd5e93-3d71-473e-9364-8fc89d2c7f89"/>
+        <COMPID name="JTextField" mc="Standard.Class" uid="3bd46579-ae71-480a-a856-9095eef705d4"/>
+        <COMPID name="UIMenuActionListener" mc="Standard.Class" uid="2c10ba73-90f2-4bda-8412-42fd777a3c8d"/>
+        <COMPID name="UINombrePersRepertoireObserveur" mc="Standard.Class" uid="52a0a243-4487-4147-b1b4-2a6523682d0e"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

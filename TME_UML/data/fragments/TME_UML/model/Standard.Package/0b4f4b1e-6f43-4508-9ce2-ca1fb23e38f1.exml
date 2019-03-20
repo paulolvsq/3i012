@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TME6_2" version="4">
+  <OBJECT>
+    <ID name="TME6_2" mc="Standard.Package" uid="0b4f4b1e-6f43-4508-9ce2-ca1fb23e38f1"/>
+    <PID name="TME_UML" mc="Standard.Project" uid="273bb99a-a8a7-45a9-a88d-a14b24602078"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[TME6_2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="2c29fdbc-d993-41b5-90f4-96d8e0bf4f09"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="App" mc="Standard.Class" uid="df09ed28-8cc3-44b9-88c6-fa90edfd7757"/>
+        <COMPID name="Panier" mc="Standard.Class" uid="4e8eb72a-474a-4eb9-af7d-a32fc3886e66"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

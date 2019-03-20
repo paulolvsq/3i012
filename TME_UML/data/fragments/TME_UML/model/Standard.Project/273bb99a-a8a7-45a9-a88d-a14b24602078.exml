@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TME_UML" version="4">
+  <OBJECT>
+    <ID name="TME_UML" mc="Standard.Project" uid="273bb99a-a8a7-45a9-a88d-a14b24602078"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[TME_UML]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="TME3" mc="Standard.Package" uid="7ecb39fa-303b-4961-bade-dfb067a2b11e"/>
+        <COMPID name="TME4" mc="Standard.Package" uid="171bac35-dabc-49c7-ba27-8b5ee987c45f"/>
+        <COMPID name="TME5" mc="Standard.Package" uid="8bc56565-75a1-431e-9e1d-c9243c96b540"/>
+        <COMPID name="TME6_1" mc="Standard.Package" uid="b9e6f1c9-1ff8-4e7a-9106-aa4644230082"/>
+        <COMPID name="TME6_2" mc="Standard.Package" uid="0b4f4b1e-6f43-4508-9ce2-ca1fb23e38f1"/>
+        <COMPID name="TME6_3" mc="Standard.Package" uid="03c86d34-24c2-4056-9aaf-8cf3db202244"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="TME_UML" mc="Infrastructure.DiagramSet" uid="c324375b-fcac-42f3-a469-922397a1a148"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

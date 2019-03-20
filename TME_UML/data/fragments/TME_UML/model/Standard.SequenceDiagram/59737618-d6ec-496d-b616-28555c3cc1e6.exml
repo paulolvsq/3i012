@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Interaction Sequence diagram" version="4">
+  <OBJECT>
+    <ID name="Interaction Sequence diagram" mc="Standard.SequenceDiagram" uid="59737618-d6ec-496d-b616-28555c3cc1e6"/>
+    <PID name="Interaction" mc="Standard.Interaction" uid="5ce876f2-a495-48ad-a730-bf23f6ed82c1"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">68</ATT>
+      <ATT name="UiData"><![CDATA[eJztWF1T4jAU/SudvrdQoXzMII6A4zri6ujuzuwTE5oLRNPETYPQf79pS1msmhYLuA+8tUnuuTc359x8dM6WPjVeQASEs1PTsaumcdbt3I4fwZMGwarJNGT4DKcmF1Pb5xgo4TYmaCqQbwMmkgs7gD9zYB7YQMEHJoN1Szrw0n9YtQySFtPw0SMXo7Xrqtnt3An+DEKGBkO+8khRyOdygCRSfb8QncMqFDan1Kx0O5XU4I3pgwwpmK8mcqKbSBCND2yPC7AT2wLx9VHgIQw4dXaxlPcwKejlu4JYWRqwlIPxlYox/ow+bhJLo2YvMxOtJFPSTV4ARRKwiiWTt5uoyXiJWqIUIYaRwHZmZQy33aw1G07Lwg3wrHq7ga1xw2lYJy3Xdb2a5znQ0GefokBeM75gQzQGmgniQQrCpmb3ikkQyJMqu0YagrHKVKcSW2gnySlcsT73n3lAIpAP3BSA6s8IxQIihCEJ5CvW1D5Ff0omaiADxfvh6nNrwm8EUS8XRBrCHUVe3NfnLJACESaLRLXMZDZauCmINZHaLT0bwhz7E0dvvyBYznIwrByMGZDpTJYESRNaSFVp0o3mxK1CHbctcCbIqjvtqjUGV8mpXnVQvdlCbqu6vcbfKXDu3gtcVN2SUrrvmlQme58pRqm//6fwNMppfgZq4cRG/fkWNyjlS6X7iPQl9t+scHIKwDtcbRblqoJahqUJ6x4Jm0/YhDIladvaC20Pf1psH5agzSNBd1JRgxlfjIj3BqLHlQ/E1mmZIBqAfpYx1BOECy7wDtAk8p5GgTryAs9Bk2JeJDT6TvILQK2ZtXnHq2pVm6rU477PmR07TkatupReBzBBcyrje8tF0pqw4+DKdbQ31qN0j9Ldn3SLxlZWu5Vk382TtfbJI38zHnMcbmzFPfW702Nj9hpRQNva6/jx3Pgl2o5o8plTo4bEW3Vl/AwJewo0TjLDe9OBQAs1kSEKFTdf003/8JIKBicASjkRRLQZbiIeZgPczurLXwhJti6nZBpc2sPz3xf3o955//ry/vbn98GuufUhyuay/WPQJh+0TyxHPuyTDz9u7w5WZP4CajbDKQ==]]></ATT>
+      <ATT name="Name"><![CDATA[Interaction Sequence diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="Lifeline" mc="Standard.Lifeline" uid="7f50e4d9-e1fa-4190-be56-2401a478a580"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="8dfb1bed-c2b2-4ec9-88ab-e1a80b84d821"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

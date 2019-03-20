@@ -1,0 +1,7 @@
+#Thu Feb 28 11:26:16 CET 2019
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu4/3670494/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu4/3670494/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu4/3670494/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.diagram.editor.OpenedDiagrams1='OBSERVER' {627e5ec4-d06f-4789-b272-5a30c9ab6a28} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams0='repertoire Class diagram' {a968483e-4d19-441a-90e5-af4f86d0e87c} Standard.ClassDiagram
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///users/Etu4/3670494/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="IHM" version="4">
+  <OBJECT>
+    <ID name="IHM" mc="Standard.Package" uid="53dc9ae0-bfe4-4c77-a127-6a68970b90a1"/>
+    <PID name="repertoire" mc="Standard.Package" uid="7d71bcf4-a9aa-4519-a8f4-71cc89102d0a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[IHM]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="UIRepertoire" mc="Standard.Class" uid="115708ae-e133-4fa1-a046-0d9463e71354"/>
+        <COMPID name="JMenuItem" mc="Standard.Class" uid="ab5fbaab-14c2-4262-87d0-0a0ecc9e7be7"/>
+        <COMPID name="JMenu" mc="Standard.Class" uid="862f0aaa-b629-465b-a35e-ae16b040ed29"/>
+        <COMPID name="UIMenuActionListener" mc="Standard.Class" uid="57acaec7-f1f1-4d45-a64f-9fc01f519a47"/>
+        <COMPID name="ActionListener" mc="Standard.Interface" uid="ffee2b28-287c-4c1f-815a-571eae17b02e"/>
+        <COMPID name="JMenuBar" mc="Standard.Class" uid="0c55a6b8-f1a2-40ab-8426-04074aa8fd80"/>
+        <COMPID name="JFrame" mc="Standard.Class" uid="52b55223-24b5-402e-a261-d5656124bc2c"/>
+        <COMPID name="JSplitPane" mc="Standard.Class" uid="2355e95d-bced-4bb4-a688-b6291400a3ff"/>
+        <COMPID name="JList" mc="Standard.Class" uid="10809409-da66-41ca-af2e-d68deb82f386"/>
+        <COMPID name="UIPersonne" mc="Standard.Class" uid="ccab4837-84fa-4a8e-bd52-95b212435fef"/>
+        <COMPID name="JTextField" mc="Standard.Class" uid="04ab53ff-4ef0-47eb-a2e8-0ca29e6cd9b9"/>
+        <COMPID name="JPanel" mc="Standard.Class" uid="9adcda0c-c44b-4ea9-9e96-4d607b4e2d09"/>
+        <COMPID name="MyAssistant" mc="Standard.Class" uid="9e51822d-02a2-402c-811c-5e55bb24a662"/>
+        <COMPID name="Observer" mc="Standard.Class" uid="8e1db74b-e7ed-418c-a0c3-46d1f621d1ea"/>
+        <COMPID name="ConcreteComposantG" mc="Standard.Class" uid="dce34dbd-dfac-49aa-951e-732efda0a484"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

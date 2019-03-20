@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TME6_3" version="4">
+  <OBJECT>
+    <ID name="TME6_3" mc="Standard.Package" uid="03c86d34-24c2-4056-9aaf-8cf3db202244"/>
+    <PID name="TME_UML" mc="Standard.Project" uid="273bb99a-a8a7-45a9-a88d-a14b24602078"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[TME6_3]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="5ce876f2-a495-48ad-a730-bf23f6ed82c1"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Repertoire" mc="Standard.Class" uid="6be3b5c4-0a35-471f-bb00-20c911c2ea2d"/>
+        <COMPID name="Observer" mc="Standard.Class" uid="67001de2-5948-4f41-bf39-0f1ff5bcda84"/>
+        <COMPID name="Personne" mc="Standard.Class" uid="3129646b-095f-4efa-b3ad-05b3fa869b37"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

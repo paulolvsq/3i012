@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="swing" version="4">
+  <OBJECT>
+    <ID name="swing" mc="Standard.Package" uid="0437bbc5-88e3-45a8-96e3-26b4e445b7da"/>
+    <PID name="javax" mc="Standard.Package" uid="8c5d11f6-4de4-4a07-95d7-26da040133d5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[swing]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="event" mc="Standard.Package" uid="eaa4e28a-143e-4806-87fe-38c0a01c2d3d"/>
+        <COMPID name="JButton" mc="Standard.Class" uid="af2a710c-cef6-49ce-9d56-c0740e746277"/>
+        <COMPID name="JLabel" mc="Standard.Class" uid="010cd9fb-62d0-4bb8-a3af-b3dcb71059dc"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="991ec17b-3ac8-49f7-af03-8e3ef94ad06c"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Definition">
+              <FOREIGNID name="JavaExtern" mc="Infrastructure.TagType" uid="003800a8-0000-0197-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

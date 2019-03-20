@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Data" version="4">
+  <OBJECT>
+    <ID name="Data" mc="Standard.Package" uid="710f4930-92a6-48d3-8502-cc3001a0d2cd"/>
+    <PID name="TME4" mc="Standard.Package" uid="171bac35-dabc-49c7-ba27-8b5ee987c45f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Data]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedImport">
+        <OBJECT>
+          <ID name="ElementImport" mc="Standard.ElementImport" uid="cbdd47ea-8cdb-4385-a1d6-5152865fa751"/>
+          <ATTRIBUTES>
+            <ATT name="Visibility">Private</ATT>
+            <ATT name="Name"><![CDATA[ElementImport]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="ImportedElement">
+              <ID name="IHM" mc="Standard.Package" uid="c308b7c0-112c-4efa-8eb4-d40a09ee4006"/>
+            </LINK>
+            <COMP relation="Descriptor">
+              <OBJECT>
+                <ID name="" mc="Infrastructure.Note" uid="7886c5dd-543e-42d7-ae56-b4a8bcaf570e"/>
+                <ATTRIBUTES>
+                  <ATT name="Content"><![CDATA[import]]></ATT>
+                  <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES>
+                  <LINK relation="Model">
+                    <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+                  </LINK>
+                </DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Adresse" mc="Standard.Class" uid="a5232438-4143-47c2-8eda-154a31c769ac"/>
+        <COMPID name="MyAssistant" mc="Standard.Class" uid="2f309307-2420-4dd2-8073-a7b7faf8f3f4"/>
+        <COMPID name="Personne" mc="Standard.Class" uid="f71a1ed8-3874-496f-85c9-dc8d2731364c"/>
+        <COMPID name="Repertoire" mc="Standard.Class" uid="bd1088a7-df7d-41d5-bfc9-898efedd988e"/>
+        <COMPID name="IHM" mc="Standard.Package" uid="c308b7c0-112c-4efa-8eb4-d40a09ee4006"/>
+        <COMPID name="Observable" mc="Standard.Interface" uid="c47620a6-55b3-4b27-a730-73d0dde0994f"/>
+        <COMPID name="Observer" mc="Standard.Interface" uid="fa33c22d-ac62-462e-a963-6cea4a8e0b52"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="Repertoire séparé en deux packages + Observer Class diagram" mc="Standard.ClassDiagram" uid="6ef083d3-ea21-4876-9647-dfaaa9ddafa3"/>
+        <COMPID name="Class diagram graphic" mc="Standard.ClassDiagram" uid="507d119a-6dbb-4c34-96ba-9e496c295047"/>
+        <COMPID name="Class diagram data" mc="Standard.ClassDiagram" uid="73611105-6ae1-499a-9bc5-f04d4a61a4a5"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

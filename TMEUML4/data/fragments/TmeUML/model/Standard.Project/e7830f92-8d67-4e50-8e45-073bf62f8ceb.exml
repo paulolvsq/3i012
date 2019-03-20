@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TmeUML" version="4">
+  <OBJECT>
+    <ID name="TmeUML" mc="Standard.Project" uid="e7830f92-8d67-4e50-8e45-073bf62f8ceb"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[TmeUML]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="tmeuml" mc="Standard.Package" uid="cc2c284f-4552-41c7-bc38-9715d9b58757"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="TmeUML" mc="Infrastructure.DiagramSet" uid="82447b1d-5893-4d61-bbf3-bc918d7980d2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

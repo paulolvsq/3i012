@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="swing" version="4">
+  <OBJECT>
+    <ID name="swing" mc="Standard.Package" uid="4b60133e-7e6a-4aeb-b3e9-b70cc36de137"/>
+    <PID name="javax" mc="Standard.Package" uid="cd52720b-7770-4609-842d-21b0d1469f89"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[swing]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="event" mc="Standard.Package" uid="e64edda9-b84c-46d8-aee1-ef2053d9ac2a"/>
+        <COMPID name="JScrollPane" mc="Standard.Class" uid="8117d56c-1bed-4181-a87a-c4e51005de68"/>
+        <COMPID name="JButton" mc="Standard.Class" uid="fea2b6c8-2f94-475f-b9fd-34e0d4d921a4"/>
+        <COMPID name="JLabel" mc="Standard.Class" uid="2a563c20-bfe3-4f2b-bc01-ddbf78193670"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="d3bfee19-128c-4b8f-baba-1276dd3f2b83"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Definition">
+              <FOREIGNID name="JavaExtern" mc="Infrastructure.TagType" uid="003800a8-0000-0197-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

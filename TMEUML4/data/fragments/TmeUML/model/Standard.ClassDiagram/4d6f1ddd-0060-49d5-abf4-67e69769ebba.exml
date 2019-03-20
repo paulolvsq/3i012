@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Adresse Class diagram" version="4">
+  <OBJECT>
+    <ID name="Adresse Class diagram" mc="Standard.ClassDiagram" uid="4d6f1ddd-0060-49d5-abf4-67e69769ebba"/>
+    <PID name="Adresse" mc="Standard.Class" uid="99a8061f-0198-44b6-9eb9-b0bff8bc1116"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">71</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Adresse Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Adresse" mc="Standard.Class" uid="99a8061f-0198-44b6-9eb9-b0bff8bc1116"/>
+        <REFOBJ>
+          <ID name="setCodePostal" mc="Standard.Operation" uid="f2cea3fe-85a9-4691-9ea3-673d18ccc10a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getVille" mc="Standard.Operation" uid="986d7f3f-1289-4c07-80c7-e44f5c48a9af"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="setVille" mc="Standard.Operation" uid="8fafb1ff-33ea-43d4-931a-0781f9eb9227"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getCodePostal" mc="Standard.Operation" uid="d9fba81c-65bb-4455-a787-7a2032237ff1"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="setRue" mc="Standard.Operation" uid="64bff52f-c5a0-4709-ba08-e40371238742"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="setRegion" mc="Standard.Operation" uid="ecda0d23-bb3d-48aa-9d42-5876ada73af6"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getRegion" mc="Standard.Operation" uid="a0f13323-d998-4bf1-90f8-7d47df78f2aa"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getRue" mc="Standard.Operation" uid="37a3d7bc-497e-4c74-9abe-ea64f7fa9462"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getPays" mc="Standard.Operation" uid="1729de73-4fc0-44d7-ab72-a4891c865a1a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="setPays" mc="Standard.Operation" uid="dde7c1d5-4cbf-41bb-abb7-0715c75b4677"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ville" mc="Standard.Attribute" uid="422d20c7-df63-4752-b7ea-4f1693ddb6d9"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="region" mc="Standard.Attribute" uid="47862336-aabb-4660-80dd-7e6b351f347e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="pays" mc="Standard.Attribute" uid="0ee82d3f-ca76-444e-82e8-74ab5fd7333e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="rue" mc="Standard.Attribute" uid="3f1fbed7-5c11-413d-8eb7-8716a48e5bed"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="codePostal" mc="Standard.Attribute" uid="40205f00-9901-4022-a574-8676c0a18e31"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="001b9a0d-33b4-489d-8944-bc0044e15a3c"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

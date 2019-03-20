@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="repertoire" version="4">
+  <OBJECT>
+    <ID name="repertoire" mc="Standard.Package" uid="440bd05c-bd34-4fdc-a646-46b36e9e4bc9"/>
+    <PID name="TME3" mc="Standard.Package" uid="7ecb39fa-303b-4961-bade-dfb067a2b11e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[repertoire]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="UIPersonne" mc="Standard.Class" uid="6b582d85-95e7-44d8-9abd-99272b08ab86"/>
+        <COMPID name="JTextField" mc="Standard.Class" uid="28cb3f2b-3b35-4b70-99a9-88d4fa7d634d"/>
+        <COMPID name="Adresse" mc="Standard.Class" uid="f08fb348-ae24-4aa5-8b81-aed21281a842"/>
+        <COMPID name="JMenuBar" mc="Standard.Class" uid="3bda5961-5411-4c95-9c94-5eaf83be8ef9"/>
+        <COMPID name="ActionListener" mc="Standard.Interface" uid="50b449b8-b067-41f9-8c15-72b3d9ece513"/>
+        <COMPID name="JSplitPane" mc="Standard.Class" uid="a857e8f4-c25b-4362-bcd1-9aae10cf1bcf"/>
+        <COMPID name="JList" mc="Standard.Class" uid="8e8dbabe-fda5-484e-8a54-b6cace502b3e"/>
+        <COMPID name="JMenuItem" mc="Standard.Class" uid="3b73fb9f-33e8-4220-b189-04f281206386"/>
+        <COMPID name="MyAssistant" mc="Standard.Class" uid="f2ca8174-a91c-4053-876c-f1f162b0c799"/>
+        <COMPID name="UIRepertoire" mc="Standard.Class" uid="46173465-41d9-473f-a40c-6664ea2b1455"/>
+        <COMPID name="Personne" mc="Standard.Class" uid="c19b4972-d8d6-420a-aaef-e4b6e798b5ec"/>
+        <COMPID name="JPanel" mc="Standard.Class" uid="41a6bec3-6fe8-4cf0-a807-109f3caa7f29"/>
+        <COMPID name="JFrame" mc="Standard.Class" uid="d49232e4-e9eb-4e22-98b2-70a29b93fc2b"/>
+        <COMPID name="UIMenuActionListener" mc="Standard.Class" uid="74a2614d-1cb7-4700-9e8d-ff38cf5ebc09"/>
+        <COMPID name="JMenu" mc="Standard.Class" uid="2f4ceb17-02a9-4e45-9b37-083df4f40f60"/>
+        <COMPID name="Repertoire" mc="Standard.Class" uid="dd240a05-bf29-4930-98dc-b82d8f42c0f7"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="repertoire Class diagram" mc="Standard.ClassDiagram" uid="eed65618-3f78-4d9c-8695-6bd76152d058"/>
+        <COMPID name="Class diagram graphic" mc="Standard.ClassDiagram" uid="9d76d007-d1e1-4842-b483-444282b16257"/>
+        <COMPID name="Class diagram data" mc="Standard.ClassDiagram" uid="d2f8537a-431f-4e02-9400-3dc48c0e1366"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

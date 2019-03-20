@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="event" version="4">
+  <OBJECT>
+    <ID name="event" mc="Standard.Package" uid="f899c6e6-4286-467a-8c48-af722c0fabad"/>
+    <PID name="awt" mc="Standard.Package" uid="30923d94-5dbe-491b-a9ba-ab332d9948ac"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[event]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="WindowEvent" mc="Standard.Class" uid="82ffc90b-05a1-4e16-bbec-4339f6c175a0"/>
+        <COMPID name="ActionEvent" mc="Standard.Class" uid="7a73e55c-fd84-48be-9714-dd1628b3165a"/>
+        <COMPID name="WindowAdapter" mc="Standard.Class" uid="f09f507a-a354-44df-950d-9f0afa8a3023"/>
+        <COMPID name="WindowListener" mc="Standard.Interface" uid="d5278e18-8d63-4ce9-8bd4-2cce53323248"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="aaa2111d-21ff-45b7-85bf-15bb93704eca"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Definition">
+              <FOREIGNID name="JavaExtern" mc="Infrastructure.TagType" uid="003800a8-0000-0197-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
